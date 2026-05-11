@@ -20,9 +20,6 @@ To visualize and analyze sales data to gain business insights.
 * Power BI
 * Excel / CSV Dataset
 
-## 📷 Dashboard Preview
-
-(Add screenshot here)
 
 ## 🚀 How to Use
 
